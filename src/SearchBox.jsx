@@ -58,6 +58,7 @@ export default function SearchBox({ updateInfo }) {
           onChange={handleChange}
           variant="outlined"
           required
+          
         />
         <br />
         <br />
